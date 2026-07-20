@@ -26,7 +26,7 @@ I'm a **Computer Science Engineering graduate** specializing in **Cyber Security
 ```yaml
 role: Java Backend Developer
 focus: APIs · Backend Architecture · Clean Code
-currently_learning: Spring Boot · RAG · Agentic AI
+currently_learning: LLM · RAG · Agentic AI
 cgpa: 9.06
 ```
 
