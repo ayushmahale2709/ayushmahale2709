@@ -24,10 +24,15 @@
 I'm a **Computer Science Engineering graduate** specializing in **Cyber Security**, passionate about **Java backend development** and building reliable, well-architected server-side systems.
 
 ```yaml
-role: Java Backend Developer
-focus: APIs · Backend Architecture · Clean Code
-currently_learning: LLM · RAG · Agentic AI
-cgpa: 9.06
+👨‍💻 Role        Java Backend Developer
+
+⚙️ Focus       Spring Boot • REST APIs • Clean Architecture
+
+🎓 Degree      B.Tech CSE (Cyber Security)
+
+📍 Location    Hyderabad, India
+
+⭐ CGPA        9.06 / 10
 ```
 
 <br />
@@ -130,19 +135,63 @@ Malla Reddy University · CGPA: `9.06`
 
 <br />
 
-## 📫 Connect With Me
+---
 
 <div align="center">
 
-<a href="https://github.com/ayushmahale2709"><img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/ayushmahale2709"><img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-<a href="mailto:ayushmahale2709@gmail.com"><img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-<a href="https://ayushmahale2709.github.io"><img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=ffffff" /></a>
+# 🤝 Let's Connect
+
+<p>
+I'm always open to discussing <b>Java Backend Development</b>, <b>Spring Boot</b>,
+<b>Open Source</b>, or exciting software engineering opportunities.
+</p>
+
+<br>
+
+<a href="https://github.com/ayushmahale2709">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayushmahale2709">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:ayushmahale2709@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://ayushmahale2709.github.io/ayush-portfolio/">
+<img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20to-Backend%20Roles-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Location-Hyderabad,%20India-4338CA?style=flat-square"/>
+<img src="https://img.shields.io/badge/Focus-Java%20%7C%20Spring%20Boot%20%7C%20REST%20APIs-0F172A?style=flat-square"/>
 
 </div>
 
-<br />
+---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4338ca,100:0f172a&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=18&fontColor=ffffff&fontAlignY=75" width="100%" />
+
+### 💡 Favorite Quote
+
+*"Programs must be written for people to read, and only incidentally for machines to execute."*
+
+**— Harold Abelson**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4338ca,100:0f172a&height=150&section=footer&text=Thanks%20for%20Visiting!&fontSize=28&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3500&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Happy+Coding!;Keep+Learning.;Build+Something+Awesome." />
+
 </div>
