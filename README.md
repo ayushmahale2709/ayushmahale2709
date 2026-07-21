@@ -84,7 +84,7 @@ I'm a **Computer Science Engineering graduate** specializing in **Cyber Security
 ### 🔐 Secure Cloud Log Drive
 Secure log storage and retrieval system focused on integrity, access control, and reliable cloud persistence for backend audit trails.
 
-`Java` `Spring Boot` `MySQL`
+`Python` `Cryptography` `SQL`
 
 <a href="https://github.com/ayushmahale2709/Secure-Cloud-Log-Drive">→ View Repository</a>
 
